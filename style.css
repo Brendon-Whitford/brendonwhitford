@@ -4,3 +4,13 @@
     width: 400px;
     height: 300px;
   }
+
+#count_up_timer{
+	font-size: 100px;
+	font-weight: bold;
+	color: darkblue;
+}
+#stop_count_up_timer{
+	background-color:black;
+	color:white
+}
