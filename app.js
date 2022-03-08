@@ -2,52 +2,52 @@ document.addEventListener('DOMContentLoaded', () => {
     //card options
     const cardArray = [
       {
-        name: 'fries',
-        img: 'images/fries.png'
+        name: 'avdol',
+        img: 'images/avdol.jpg'
       },
       {
-        name: 'cheeseburger',
-        img: 'images/cheeseburger.png'
+        name: 'iggy',
+        img: 'images/iggy.jpg'
       },
       {
-        name: 'ice-cream',
-        img: 'images/ice-cream.png'
+        name: 'joseph',
+        img: 'images/joseph.jpeg'
       },
       {
-        name: 'pizza',
-        img: 'images/pizza.png'
+        name: 'jotaro',
+        img: 'images/jotaro.jpg'
       },
       {
-        name: 'milkshake',
-        img: 'images/milkshake.png'
+        name: 'kakyoin',
+        img: 'images/kakyoin.jpg'
       },
       {
-        name: 'hotdog',
-        img: 'images/hotdog.png'
+        name: 'polnareff',
+        img: 'images/polnareff.jpg'
       },
       {
-        name: 'fries',
-        img: 'images/fries.png'
+        name: 'avdol',
+        img: 'images/avdol.jpg'
       },
       {
-        name: 'cheeseburger',
-        img: 'images/cheeseburger.png'
+        name: 'iggy',
+        img: 'images/iggy.jpg'
       },
       {
-        name: 'ice-cream',
-        img: 'images/ice-cream.png'
+        name: 'joseph',
+        img: 'images/joseph.jpeg'
       },
       {
-        name: 'pizza',
-        img: 'images/pizza.png'
+        name: 'jotaro',
+        img: 'images/jotaro.jpg'
       },
       {
-        name: 'milkshake',
-        img: 'images/milkshake.png'
+        name: 'kakyoin',
+        img: 'images/kakyoin.jpg'
       },
       {
-        name: 'hotdog',
-        img: 'images/hotdog.png'
+        name: 'polnareff',
+        img: 'images/polnareff.jpg'
       }
     ]
   
